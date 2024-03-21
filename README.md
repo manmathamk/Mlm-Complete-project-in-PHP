@@ -5,5 +5,4 @@ import mlm.sql to database
 
 Enjoy Project
 
-If any queries reach out - +91 8123416126
-or manmathamk126@gmail.com
+If any queries reach out - manmathamk126@gmail.com
